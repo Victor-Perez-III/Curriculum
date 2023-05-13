@@ -1,0 +1,17 @@
+Esn este proyecto aprendi, muchas cosas nuevas como !important, a colocar un icono en la pestaña del navegador, 
+y propiedades como:
+
+letter-spacing
+transform
+word_spacing
+
+Intente utilizar HTML semantico, pero me resulto un poco complicado a la hora de aplicarle estilos, 
+es algo que estor paracticando y asi como muchas otras propiedades que utilice y seguire investigando 
+y puliendome en ese sentido, asi que utilice div y los organice con clases, 
+se me facilito mejor usar en algunos aspectos float, 
+y no vi necesario utilizar flexbox, aunque si es algo en lo que debo mejorar y muchas de las cosas la usque en intetnet, pero lo que mas me gusto que aprende es de google icon apis, 
+donde uno por asi decirlo puede seleccionar ciertos iconos y por medio de html llamarlos y luego darle estilos.
+
+
+Muchas Gracias
+Prometo seguir mejorando
